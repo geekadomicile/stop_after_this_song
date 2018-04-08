@@ -22,5 +22,7 @@ Sources of inspiration and tademarks
 ----------
 
 https://dougscripts.com/
+
 http://unadorned.org/dandruff/archives/2004/02/24/002324.html
+
 iTunes name and logo is Apple's property
