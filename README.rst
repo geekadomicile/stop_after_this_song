@@ -11,12 +11,12 @@ You can choose to use the app OR to install the script into iTunes.
 How to install the script ?
 ---------------------------
 
-Please follow Doug's great tutorial here : https://dougscripts.com/itunes/itinfo/asitbasics.php
+Download https://github.com/geekadomicile/stop_after_this_song/blob/master/releases/script_to_launch_from_iTunes/stop_after_this_song.scpt and install it following Doug's great tutorial here : https://dougscripts.com/itunes/itinfo/asitbasics.php
 
 How to use the App ?
 ----------
 
-Just download the .app folder, copy it to /Applications folder and double-clic to start iTunes (the script will be executed every N seconds to ensure that only 1 and only 1 song is played and then the player stops).
+Just download the https://github.com/geekadomicile/stop_after_this_song/blob/master/releases/launch_iTunes_and_script/stop_after_this_song.app.zip , extract it to /Applications folder and double-clic to start iTunes (the script will be executed every N seconds to ensure that only 1 and only 1 song is played and then the player stops).
 
 Sources of inspiration and tademarks
 ----------
